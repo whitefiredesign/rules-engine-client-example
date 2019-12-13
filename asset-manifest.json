@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ae99373.chunk.css",
-    "main.js": "/static/js/main.bca85299.chunk.js",
-    "main.js.map": "/static/js/main.bca85299.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.88d4f3f8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.88d4f3f8.js.map",
-    "static/js/2.b24421df.chunk.js": "/static/js/2.b24421df.chunk.js",
-    "static/js/2.b24421df.chunk.js.map": "/static/js/2.b24421df.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6ffa05b43319a8b26340a95649cb5674.js": "/precache-manifest.6ffa05b43319a8b26340a95649cb5674.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3ae99373.chunk.css.map": "/static/css/main.3ae99373.chunk.css.map",
-    "static/js/2.b24421df.chunk.js.LICENSE": "/static/js/2.b24421df.chunk.js.LICENSE"
+    "main.css": "/whitefiredesign/rules-engine-fe-example/static/css/main.3ae99373.chunk.css",
+    "main.js": "/whitefiredesign/rules-engine-fe-example/static/js/main.bca85299.chunk.js",
+    "main.js.map": "/whitefiredesign/rules-engine-fe-example/static/js/main.bca85299.chunk.js.map",
+    "runtime-main.js": "/whitefiredesign/rules-engine-fe-example/static/js/runtime-main.af84225f.js",
+    "runtime-main.js.map": "/whitefiredesign/rules-engine-fe-example/static/js/runtime-main.af84225f.js.map",
+    "static/js/2.b24421df.chunk.js": "/whitefiredesign/rules-engine-fe-example/static/js/2.b24421df.chunk.js",
+    "static/js/2.b24421df.chunk.js.map": "/whitefiredesign/rules-engine-fe-example/static/js/2.b24421df.chunk.js.map",
+    "index.html": "/whitefiredesign/rules-engine-fe-example/index.html",
+    "precache-manifest.958b9e412aa06579e98fb45762ac6783.js": "/whitefiredesign/rules-engine-fe-example/precache-manifest.958b9e412aa06579e98fb45762ac6783.js",
+    "service-worker.js": "/whitefiredesign/rules-engine-fe-example/service-worker.js",
+    "static/css/main.3ae99373.chunk.css.map": "/whitefiredesign/rules-engine-fe-example/static/css/main.3ae99373.chunk.css.map",
+    "static/js/2.b24421df.chunk.js.LICENSE": "/whitefiredesign/rules-engine-fe-example/static/js/2.b24421df.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.88d4f3f8.js",
+    "static/js/runtime-main.af84225f.js",
     "static/js/2.b24421df.chunk.js",
     "static/css/main.3ae99373.chunk.css",
     "static/js/main.bca85299.chunk.js"
