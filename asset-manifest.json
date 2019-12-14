@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rules-engine-client-example/static/css/main.ab196232.chunk.css",
+    "main.css": "/rules-engine-client-example/static/css/main.9bcc68ff.chunk.css",
     "main.js": "/rules-engine-client-example/static/js/main.6ae18e49.chunk.js",
     "main.js.map": "/rules-engine-client-example/static/js/main.6ae18e49.chunk.js.map",
     "runtime-main.js": "/rules-engine-client-example/static/js/runtime-main.aa95c6eb.js",
@@ -8,15 +8,15 @@
     "static/js/2.b24421df.chunk.js": "/rules-engine-client-example/static/js/2.b24421df.chunk.js",
     "static/js/2.b24421df.chunk.js.map": "/rules-engine-client-example/static/js/2.b24421df.chunk.js.map",
     "index.html": "/rules-engine-client-example/index.html",
-    "precache-manifest.10c92561c9fb752d04a688be94f492f5.js": "/rules-engine-client-example/precache-manifest.10c92561c9fb752d04a688be94f492f5.js",
+    "precache-manifest.6f1ec33846c7fe49dad2bf35358dd728.js": "/rules-engine-client-example/precache-manifest.6f1ec33846c7fe49dad2bf35358dd728.js",
     "service-worker.js": "/rules-engine-client-example/service-worker.js",
-    "static/css/main.ab196232.chunk.css.map": "/rules-engine-client-example/static/css/main.ab196232.chunk.css.map",
+    "static/css/main.9bcc68ff.chunk.css.map": "/rules-engine-client-example/static/css/main.9bcc68ff.chunk.css.map",
     "static/js/2.b24421df.chunk.js.LICENSE": "/rules-engine-client-example/static/js/2.b24421df.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.aa95c6eb.js",
     "static/js/2.b24421df.chunk.js",
-    "static/css/main.ab196232.chunk.css",
+    "static/css/main.9bcc68ff.chunk.css",
     "static/js/main.6ae18e49.chunk.js"
   ]
 }
