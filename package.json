@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage" : "https://whitefiredesign.github.io/rules-engine-fe-example",
+  "homepage" : "https://whitefiredesign.github.io/rules-engine-client-example",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
