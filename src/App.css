@@ -1,38 +1,125 @@
 .App {
-  text-align: center;
+    max-width:740px;
+    padding:10px 20px;
+    width:100%;
+    box-sizing:border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.form {
+    margin-bottom:20px;
+    max-width:345px;
+    width:100%;
+    float:right;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.form label {
+    display:block;
+    font-weight:bold;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.form input, .form textarea {
+    width:100%;
+    padding:5px;
+    box-sizing:border-box;
+    margin-bottom:10px;
 }
 
-.App-link {
-  color: #61dafb;
+.field-helper {
+    position:absolute;
+    top:-7px;
+    right:5px;
+    font-size:10px;
+    color:blue;
+    background:white;
+    display:inline-block;
+    padding:3px;
+    font-weight:bold;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.preview {
+    max-width:345px;
+    width:100%;
+}
+
+.navbox {
+    border:1px solid black;
+    padding:10px;
+    background:lightpink;
+    float:left;
+    margin-bottom:20px;
+}
+
+.navbox-title,
+.navbox-thumbnail,
+.navbox-body {
+    background:white;
+    min-height:21px;
+}
+
+.navbox-title {
+    padding:10px;
+    border:1px solid grey;
+    position:relative;
+}
+
+.navbox-thumbnail,
+.navbox-body {
+    padding:10px;
+    border:1px solid grey;
+    margin-top:10px;
+    position:relative;
+    white-space: pre-line;
+}
+
+.navbox-actions {
+    margin-top:10px;
+}
+
+.navbox-actions button {
+    font-size:25px;
+    background:lightblue;
+    width:100%;
+}
+
+span.pass, span.fail {
+    font-size:25px;
+    position:relative;
+    top:3px;
+    margin-right:10px;
+}
+
+.audit {
+    background:#efefef;
+    padding:5px;
+}
+
+span.pass {
+    color:green;
+}
+
+span.fail {
+    color:red;
+}
+
+.message {
+    font-size:12px;
+    font-style:italic;
+}
+
+.loader {
+    border: 4px solid #f3f3f3; /* Light grey */
+    border-top: 4px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    animation: spin 2s linear infinite;
+    display:inline-block;
+    position:relative;
+    top:4px;
+    margin-right:10px;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }
